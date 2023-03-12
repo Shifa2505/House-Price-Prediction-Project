@@ -1,4 +1,4 @@
-,location,total_sqft,bath,price,bhk
+,location,total_sqft,bathrooms,price,bhk
 0,1st Block Jayanagar,2850.0,4.0,428.0,4
 1,1st Block Jayanagar,1630.0,3.0,194.0,3
 2,1st Block Jayanagar,1875.0,2.0,235.0,3
@@ -710,18 +710,7 @@
 817,Bannerghatta,1665.0,3.0,110.0,3
 818,Bannerghatta,2370.0,4.0,195.0,3
 819,Bannerghatta,1100.0,2.0,66.0,2
-820,Bannerghatta,2895.5,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",246.0,4
+820,Bannerghatta,2895.5,0.0,246.0,4
 821,Bannerghatta,1113.0,2.0,70.0,2
 822,Bannerghatta,1200.0,2.0,73.2,2
 823,Bannerghatta,1070.0,2.0,87.0,2
@@ -1293,18 +1282,7 @@ Name: bath, Length: 13320, dtype: float64>",246.0,4
 1534,Chandapura,975.0,2.0,24.86,2
 1535,Chandapura,700.0,1.0,19.0,2
 1537,Chandapura,1095.0,2.0,32.0,3
-1538,Chandapura,1891.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",66.165,4
+1538,Chandapura,1891.0,0.0,66.165,4
 1539,Chandapura,1208.51,3.0,42.0,3
 1540,Chandapura,876.0,2.0,29.5,2
 1541,Chandapura,645.0,1.0,16.45,1
@@ -1469,18 +1447,7 @@ Name: bath, Length: 13320, dtype: float64>",66.165,4
 1738,Dasarahalli,1375.0,2.0,60.0,2
 1739,Dasarahalli,1333.0,2.0,78.56,2
 1740,Dasarahalli,1220.0,2.0,62.0,2
-1741,Devanahalli,3210.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",192.0,4
+1741,Devanahalli,3210.0,0.0,192.0,4
 1742,Devanahalli,1260.0,2.0,66.78,2
 1743,Devanahalli,1282.0,2.0,68.52,3
 1744,Devanahalli,1360.0,2.0,65.0,2
@@ -1489,18 +1456,7 @@ Name: bath, Length: 13320, dtype: float64>",192.0,4
 1748,Devanahalli,1080.0,2.0,53.35,2
 1749,Devanahalli,2400.0,5.0,100.0,5
 1752,Devanahalli,1174.0,2.0,59.0,2
-1753,Devanahalli,3752.5,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",177.115,2
+1753,Devanahalli,3752.5,0.0,177.115,2
 1754,Devanahalli,658.0,1.0,34.0,1
 1755,Devanahalli,658.0,1.0,26.91,1
 1756,Devanahalli,698.5,1.0,28.57,1
@@ -1515,18 +1471,7 @@ Name: bath, Length: 13320, dtype: float64>",177.115,2
 1767,Devanahalli,2125.0,3.0,107.0,3
 1770,Devanahalli,658.0,1.0,26.91,1
 1772,Devanahalli,1010.0,2.0,58.0,2
-1775,Devanahalli,1075.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",52.57,1
+1775,Devanahalli,1075.0,0.0,52.57,1
 1777,Devarachikkanahalli,1250.0,2.0,40.0,2
 1778,Devarachikkanahalli,1200.0,2.0,83.0,2
 1779,Devarachikkanahalli,1170.0,2.0,40.0,2
@@ -1846,18 +1791,7 @@ Name: bath, Length: 13320, dtype: float64>",52.57,1
 2236,Electronic City Phase II,1000.0,2.0,28.88,2
 2237,Electronic City Phase II,1000.0,2.0,28.88,2
 2238,Electronic City Phase II,1165.0,2.0,30.29,2
-2239,Electronic City Phase II,3550.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",167.5,4
+2239,Electronic City Phase II,3550.0,0.0,167.5,4
 2240,Electronic City Phase II,1031.0,2.0,53.0,2
 2242,Electronic City Phase II,1065.0,2.0,30.88,2
 2244,Electronic City Phase II,1549.0,3.0,80.0,3
@@ -2397,18 +2331,7 @@ Name: bath, Length: 13320, dtype: float64>",167.5,4
 2863,Hebbal,1255.0,2.0,90.0,3
 2864,Hebbal,1645.0,3.0,117.0,3
 2867,Hebbal,1636.0,3.0,119.0,3
-2868,Hebbal,2661.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",226.5,3
+2868,Hebbal,2661.0,0.0,226.5,3
 2869,Hebbal,1255.0,2.0,95.0,3
 2872,Hebbal,1255.0,2.0,95.0,3
 2873,Hebbal,1088.0,2.0,61.45,2
@@ -2561,18 +2484,7 @@ Name: bath, Length: 13320, dtype: float64>",226.5,3
 3041,Hennur,1050.0,2.0,42.73,2
 3042,Hennur,1295.0,2.0,62.0,2
 3043,Hennur Road,2089.0,3.0,140.0,3
-3044,Hennur Road,3203.5,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",224.5,4
+3044,Hennur Road,3203.5,0.0,224.5,4
 3045,Hennur Road,5000.0,8.0,250.0,8
 3046,Hennur Road,1385.0,2.0,83.09,2
 3047,Hennur Road,1317.5,2.0,63.77,2
@@ -3005,18 +2917,7 @@ Name: bath, Length: 13320, dtype: float64>",224.5,4
 3556,Indira Nagar,1149.0,2.0,130.0,2
 3558,Indira Nagar,2400.0,6.0,475.0,6
 3559,JP Nagar,1850.0,3.0,150.0,3
-3560,JP Nagar,5520.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",375.0,5
+3560,JP Nagar,5520.0,0.0,375.0,5
 3561,JP Nagar,1100.0,2.0,70.0,2
 3562,JP Nagar,940.0,2.0,49.0,2
 3564,JP Nagar,4624.5,4.0,314.5,4
@@ -3035,30 +2936,8 @@ Name: bath, Length: 13320, dtype: float64>",375.0,5
 3581,JP Nagar,2700.0,4.0,160.0,7
 3583,JP Nagar,820.0,2.0,45.0,2
 3584,JP Nagar,1750.0,3.0,123.0,3
-3585,JP Nagar,2195.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",152.0,3
-3586,JP Nagar,3496.5,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",237.5,3
+3585,JP Nagar,2195.0,0.0,152.0,3
+3586,JP Nagar,3496.5,0.0,237.5,3
 3590,JP Nagar,745.0,1.0,34.27,1
 3591,JP Nagar,1800.0,6.0,68.0,6
 3592,JP Nagar,1150.0,2.0,90.0,2
@@ -3080,18 +2959,7 @@ Name: bath, Length: 13320, dtype: float64>",237.5,3
 3612,Jakkur,1396.0,2.0,86.51,3
 3613,Jakkur,3467.86,6.0,249.0,4
 3614,Jakkur,1865.0,3.0,124.0,3
-3615,Jakkur,3181.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",260.5,4
+3615,Jakkur,3181.0,0.0,260.5,4
 3616,Jakkur,1760.0,3.0,139.0,3
 3617,Jakkur,1290.0,2.0,100.0,2
 3618,Jakkur,1452.19,2.0,100.0,2
@@ -3110,18 +2978,7 @@ Name: bath, Length: 13320, dtype: float64>",260.5,4
 3637,Jakkur,1230.0,2.0,79.0,2
 3638,Jakkur,1202.0,2.0,79.0,2
 3639,Jakkur,1858.0,3.0,123.0,3
-3640,Jakkur,3181.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",229.0,4
+3640,Jakkur,3181.0,0.0,229.0,4
 3643,Jakkur,1785.0,3.0,130.0,3
 3644,Jakkur,1080.0,2.0,60.0,2
 3645,Jakkur,1260.0,2.0,71.195,2
@@ -3180,18 +3037,7 @@ Name: bath, Length: 13320, dtype: float64>",229.0,4
 3714,Jigani,933.0,2.0,43.0,2
 3715,Jigani,918.0,2.0,55.0,2
 3716,Jigani,2400.0,3.0,149.0,3
-3717,Jigani,4303.5,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",226.0,4
+3717,Jigani,4303.5,0.0,226.0,4
 3718,Jigani,937.0,2.0,44.0,2
 3720,Jigani,923.0,2.0,50.0,2
 3723,Jigani,1221.0,3.0,72.0,3
@@ -3245,18 +3091,7 @@ Name: bath, Length: 13320, dtype: float64>",226.0,4
 3786,KR Puram,1000.0,2.0,44.5,2
 3787,KR Puram,1200.0,2.0,47.0,2
 3788,KR Puram,1200.0,1.0,65.0,2
-3789,KR Puram,1583.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",70.445,3
+3789,KR Puram,1583.0,0.0,70.445,3
 3790,KR Puram,1076.0,2.0,67.0,2
 3791,KR Puram,1140.0,2.0,43.32,2
 3792,KR Puram,4300.0,6.0,175.0,6
@@ -3287,18 +3122,7 @@ Name: bath, Length: 13320, dtype: float64>",70.445,3
 3818,KR Puram,1827.0,3.0,97.0,3
 3819,KR Puram,1075.0,2.0,32.25,2
 3821,KR Puram,1100.0,2.0,39.9,2
-3822,KR Puram,2283.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",121.0,4
+3822,KR Puram,2283.0,0.0,121.0,4
 3823,KR Puram,2800.0,6.0,110.0,7
 3824,KR Puram,1020.0,2.0,39.0,2
 3825,KR Puram,1200.0,2.0,75.0,2
@@ -3508,18 +3332,7 @@ Name: bath, Length: 13320, dtype: float64>",121.0,4
 4060,Kanakpura Road,950.0,2.0,57.0,2
 4061,Kanakpura Road,2250.0,4.0,110.0,4
 4063,Kanakpura Road,525.0,1.0,26.0,1
-4065,Kanakpura Road,525.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",21.53,1
+4065,Kanakpura Road,525.0,0.0,21.53,1
 4068,Kanakpura Road,525.0,1.0,27.25,1
 4069,Kanakpura Road,1100.0,2.0,58.0,3
 4070,Kanakpura Road,525.0,1.0,30.0,1
@@ -3563,18 +3376,7 @@ Name: bath, Length: 13320, dtype: float64>",21.53,1
 4143,Kanakpura Road,670.0,1.0,35.0,1
 4150,Kanakpura Road,525.0,1.0,30.0,1
 4153,Kanakpura Road,1498.0,3.0,95.0,3
-4154,Kanakpura Road,525.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",27.0,1
+4154,Kanakpura Road,525.0,0.0,27.0,1
 4155,Kanakpura Road,1665.0,3.0,86.91,3
 4156,Kanakpura Road,1665.0,3.0,86.58,3
 4157,Kanakpura Road,712.0,1.0,38.44,1
@@ -3586,30 +3388,8 @@ Name: bath, Length: 13320, dtype: float64>",27.0,1
 4171,Kanakpura Road,525.0,1.0,26.0,1
 4172,Kanakpura Road,1050.0,2.0,59.0,3
 4173,Kanakpura Road,1600.0,3.0,90.0,3
-4174,Kanakpura Road,525.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",29.25,1
-4176,Kanakpura Road,800.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",41.145,2
+4174,Kanakpura Road,525.0,0.0,29.25,1
+4176,Kanakpura Road,800.0,0.0,41.145,2
 4179,Kanakpura Road,1100.0,3.0,56.57,3
 4182,Kanakpura Road,1843.0,3.0,96.2,3
 4186,Kanakpura Road,1240.0,2.0,65.0,2
@@ -3627,18 +3407,7 @@ Name: bath, Length: 13320, dtype: float64>",41.145,2
 4215,Kanakpura Road,1300.0,3.0,69.0,3
 4220,Kanakpura Road,1430.0,2.0,78.0,2
 4221,Kanakpura Road,700.0,2.0,36.0,2
-4224,Kanakpura Road,525.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",27.0,1
+4224,Kanakpura Road,525.0,0.0,27.0,1
 4226,Kanakpura Road,1100.0,3.0,58.0,3
 4231,Kanakpura Road,1300.0,2.0,69.0,3
 4232,Kanakpura Road,2000.0,3.0,105.0,3
@@ -3699,18 +3468,7 @@ Name: bath, Length: 13320, dtype: float64>",27.0,1
 4312,Kasavanhalli,1200.0,2.0,60.0,2
 4313,Kasavanhalli,4260.0,4.0,333.0,4
 4314,Kasavanhalli,1495.0,2.0,83.0,2
-4315,Kasavanhalli,5000.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",400.0,2
+4315,Kasavanhalli,5000.0,0.0,400.0,2
 4316,Kasavanhalli,4000.0,4.0,325.0,4
 4318,Kasavanhalli,1917.0,3.0,132.0,3
 4319,Kasavanhalli,1375.0,2.0,78.0,2
@@ -4056,18 +3814,7 @@ Name: bath, Length: 13320, dtype: float64>",400.0,2
 4719,Kudlu Gate,1535.0,3.0,86.0,3
 4720,Kudlu Gate,1564.0,2.0,92.0,3
 4722,Kudlu Gate,1238.0,2.0,55.0,2
-4723,Kudlu Gate,1707.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",99.745,3
+4723,Kudlu Gate,1707.0,0.0,99.745,3
 4724,Kudlu Gate,1335.0,3.0,89.0,3
 4725,Kudlu Gate,703.0,1.0,52.0,1
 4726,Kudlu Gate,1535.0,3.0,86.0,3
@@ -4273,18 +4020,7 @@ Name: bath, Length: 13320, dtype: float64>",99.745,3
 4946,Malleshwaram,2000.0,3.0,250.0,3
 4947,Malleshwaram,2215.0,3.0,275.0,3
 4949,Malleshwaram,2475.0,4.0,300.0,3
-4950,Malleshwaram,2345.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",293.0,3
+4950,Malleshwaram,2345.0,0.0,293.0,3
 4952,Malleshwaram,2215.0,4.0,310.0,3
 4953,Malleshwaram,480.0,1.0,60.0,1
 4954,Malleshwaram,1290.0,2.0,120.0,2
@@ -4498,18 +4234,7 @@ Name: bath, Length: 13320, dtype: float64>",293.0,3
 5206,Mysore Road,940.0,2.0,43.61,2
 5208,Mysore Road,1020.0,2.0,48.95,2
 5209,Mysore Road,1568.0,2.0,100.0,3
-5211,Mysore Road,1560.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",83.3,3
+5211,Mysore Road,1560.0,0.0,83.3,3
 5212,Mysore Road,1175.0,2.0,70.5,2
 5213,Mysore Road,1080.0,2.0,60.0,3
 5215,Mysore Road,883.0,2.0,37.0,2
@@ -5255,18 +4980,7 @@ Name: bath, Length: 13320, dtype: float64>",83.3,3
 6131,Sarjapur  Road,1157.0,2.0,75.0,3
 6132,Sarjapur  Road,1145.0,2.0,75.0,2
 6133,Sarjapur  Road,1300.0,2.0,70.0,3
-6136,Sarjapur  Road,1476.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",98.94,3
+6136,Sarjapur  Road,1476.0,0.0,98.94,3
 6137,Sarjapur  Road,2180.0,3.0,170.0,3
 6140,Sarjapur  Road,1750.0,3.0,110.0,3
 6143,Sarjapur  Road,1200.0,3.0,70.0,3
@@ -5304,18 +5018,7 @@ Name: bath, Length: 13320, dtype: float64>",98.94,3
 6190,Sarjapur  Road,1278.0,2.0,90.0,2
 6192,Sarjapur  Road,1305.0,2.0,99.0,2
 6193,Sarjapur  Road,1755.0,3.0,122.0,3
-6194,Sarjapur  Road,4334.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",338.0,4
+6194,Sarjapur  Road,4334.0,0.0,338.0,4
 6197,Sarjapur  Road,1700.0,3.0,93.5,3
 6199,Sarjapur  Road,1060.0,2.0,55.0,2
 6200,Sarjapur  Road,1455.0,2.0,98.0,3
@@ -5386,31 +5089,9 @@ Name: bath, Length: 13320, dtype: float64>",338.0,4
 6304,Sarjapur  Road,2275.0,4.0,182.0,3
 6307,Sarjapur  Road,1881.0,3.0,145.0,3
 6309,Sarjapur  Road,2880.0,3.0,211.0,4
-6310,Sarjapur  Road,3418.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",222.0,4
+6310,Sarjapur  Road,3418.0,0.0,222.0,4
 6312,Sarjapur  Road,675.0,1.0,27.0,1
-6313,Sarjapur  Road,1773.5,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",102.92,3
+6313,Sarjapur  Road,1773.5,0.0,102.92,3
 6314,Sarjapur  Road,1346.0,2.0,74.03,2
 6315,Sarjapur  Road,1691.0,3.0,119.0,3
 6316,Sarjapur  Road,1335.0,2.0,95.0,2
@@ -5657,18 +5338,7 @@ Name: bath, Length: 13320, dtype: float64>",102.92,3
 6628,Thanisandra,1651.0,3.0,97.38,3
 6629,Thanisandra,1265.0,2.0,85.0,2
 6630,Thanisandra,510.0,1.0,25.25,1
-6631,Thanisandra,776.5,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",48.145,1
+6631,Thanisandra,776.5,0.0,48.145,1
 6632,Thanisandra,1564.0,3.0,101.0,3
 6634,Thanisandra,1847.0,3.0,123.0,3
 6636,Thanisandra,1697.0,3.0,114.0,3
@@ -6137,18 +5807,7 @@ Name: bath, Length: 13320, dtype: float64>",48.145,1
 7242,Whitefield,2280.0,4.0,126.0,3
 7246,Whitefield,1897.0,3.0,130.0,3
 7247,Whitefield,2225.0,2.0,125.0,3
-7248,Whitefield,4348.5,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",304.0,4
+7248,Whitefield,4348.5,0.0,304.0,4
 7251,Whitefield,2268.0,3.0,163.0,4
 7254,Whitefield,2400.0,4.0,200.0,4
 7256,Whitefield,1360.0,2.0,95.0,2
@@ -6165,18 +5824,7 @@ Name: bath, Length: 13320, dtype: float64>",304.0,4
 7276,Whitefield,1192.0,2.0,71.0,2
 7280,Whitefield,1626.0,3.0,89.0,3
 7281,Whitefield,1585.0,3.0,88.0,3
-7282,Whitefield,665.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",28.585,1
+7282,Whitefield,665.0,0.0,28.585,1
 7284,Whitefield,1280.0,2.0,85.0,2
 7285,Whitefield,1200.0,3.0,68.5,3
 7286,Whitefield,4000.0,4.0,330.0,4
@@ -6217,18 +5865,7 @@ Name: bath, Length: 13320, dtype: float64>",28.585,1
 7356,Whitefield,1320.0,2.0,79.5,2
 7357,Whitefield,750.0,2.0,52.7,2
 7358,Whitefield,1200.0,3.0,61.96,3
-7363,Whitefield,2094.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",113.19,3
+7363,Whitefield,2094.0,0.0,113.19,3
 7365,Whitefield,3445.0,5.0,270.0,4
 7366,Whitefield,1700.0,3.0,140.0,3
 7367,Whitefield,4827.0,4.0,400.0,4
@@ -7313,18 +6950,7 @@ Name: bath, Length: 13320, dtype: float64>",113.19,3
 9454,other,600.0,1.0,58.0,1
 9455,other,1000.0,1.0,19.0,1
 9457,other,375.0,1.0,40.0,1
-9459,other,2000.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",120.0,2
+9459,other,2000.0,0.0,120.0,2
 9460,other,1220.0,2.0,65.0,2
 9464,other,1130.0,2.0,74.0,2
 9465,other,1407.0,2.0,83.87,2
@@ -7697,18 +7323,7 @@ Name: bath, Length: 13320, dtype: float64>",120.0,2
 10212,other,1570.0,2.0,95.0,3
 10213,other,2250.0,3.0,180.0,3
 10214,other,1270.0,2.0,172.0,2
-10217,other,3210.0,"<bound method NDFrame._add_numeric_operations.<locals>.median of 0        2.0
-1        5.0
-2        2.0
-3        3.0
-4        2.0
-        ... 
-13315    4.0
-13316    5.0
-13317    2.0
-13318    4.0
-13319    1.0
-Name: bath, Length: 13320, dtype: float64>",353.0,5
+10217,other,3210.0,0.0,353.0,5
 10225,other,1950.0,3.0,132.0,3
 10226,other,1200.0,2.0,130.0,3
 10228,other,1600.0,3.0,102.0,3
