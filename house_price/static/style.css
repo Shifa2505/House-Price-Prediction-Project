@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: 1.1rem;
+}
+h1{
+    font-size: 3rem;
+    font-weight: 550;
+    letter-spacing: 2px;
+}
+h2{
+    font-size: 1.5rem;
+    font-weight: 550;
+    letter-spacing: 1px;
+}
+/* Heading */
+.heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    color: #03311E;
+}
+/* Main Form*/
+.message{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.message-container{
+    min-height: 85vh;
+    width: 100%;
+    background-color: #03311E;
+    position: relative;
+    z-index: 1;
+}
+.map-img{
+    position: absolute;
+    z-index: 1;
+}
+.send-message{
+    background-color: #fff;
+    position: absolute;
+    z-index: 2;
+    height: 500px;
+    width: 1000px;
+    margin-left: 350px;
+    margin-top: 80px;
+    padding: auto;
+}
+.send-message h2{
+    color: #03311E;
+    font-weight: 550;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-left: 350px;
+    width:60%;
+}
+.send-message form{
+    margin-left: 350px;
+    width: 60%;
+}
+.contact-us{
+    background-color: #03311E;
+    position: absolute;
+    z-index: 3;
+    box-shadow: 0 5px 5px #aaa;
+    height: 450px;
+    width: 450px;
+    margin-left: 200px;
+    margin-top: 105px;
+    color: #fff;
+    font-size: 20px;
+}
+.contact-us h1{
+    color: #fff;
+    font-size: 2.2rem;
+    font-weight: 500;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    margin-left: 40px;
+}
+.contact-us .info-box div{
+    margin-left: 35px;
+    display: flex;
+}
+.contact-us .info-box div span{
+    min-width: 40px;
+    height: 40px;
+    display: flex;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    margin-right: 15px;
+    margin-bottom: 45px;
+}
+.contact-us .info-box div p{
+    font-size: 1.3rem;
+}
+.contact-us .info-box div a{
+    text-decoration: underline;
+    color: #fff;
+}
+.social{
+    margin-left: 35px;
+    display: flex;
+}
+.social li{
+    list-style: none;
+    margin-right: 45px;
+}
+.social li a{
+    color: #fff;
+    font-size: 2.3rem;
+}
