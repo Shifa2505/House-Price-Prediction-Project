@@ -2,13 +2,14 @@
 import pandas as pd
 from flask import Flask, render_template, request
 import pickle
+import numpy as np
 app = Flask(__name__)
 data = pd.read_csv('Cleaned_data.csv')
-pipe = pickle.load(open("RidgeModel.pkl", 'rb'))
+pipe = pickle.load(open("RidgeModelNew.pkl", 'rb'))
 
-from sklearn.preprocessing import OneHotEncoder
+# from sklearn.preprocessing import OneHotEncoder
 
-encoder = OneHotEncoder(handle_unknown='ignore')
+# encoder = OneHotEncoder(handle_unknown='ignore')
 
 @app.route('/')
 def index():
@@ -25,9 +26,10 @@ def predict():
 
     print(location,bhk,bathrooms,sqft)
     input_data = pd.DataFrame([[location,sqft,bathrooms,bhk]], columns=['location', 'total_sqft', 'bathrooms', 'bhk'])
-    prediction = pipe.predict(input_data)[0]
 
-    return str(prediction)
+    prediction = pipe.predict(input_data)[0] * 1e5
+    formatted_prediction = "{:,.2f}".format(prediction)
+    return formatted_prediction
 
 
 if __name__ == "__main__":
